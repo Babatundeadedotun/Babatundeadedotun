@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Babatundeadedotun
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Full Stack Web Development
-- 💞️ I’m looking to collaborate on Projects
+- 💞️ I’m looking to collaborate on Frontend Web Development Projects
 - 📫 How to reach me: babatunde.adedotun94@gmail.com
 
 <!---
